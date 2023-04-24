@@ -1,0 +1,56 @@
+C:\Users\pruebas2.ATURING\Desktop\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\pruebas2.ATURING\Desktop\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\pruebas2.ATURING\Desktop\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\pruebas2.ATURING\Desktop\Prueba\Prueba\bin\Debug\Prueba.xml
+C:\Users\pruebas2.ATURING\Desktop\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Users\pruebas2.ATURING\Desktop\Prueba\Prueba\obj\Debug\Prueba.Resources.resources
+C:\Users\pruebas2.ATURING\Desktop\Prueba\Prueba\obj\Debug\Prueba.vbproj.GenerateResource.Cache
+C:\Users\pruebas2.ATURING\Desktop\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\pruebas2.ATURING\Desktop\Prueba\Prueba\obj\Debug\Prueba.xml
+C:\Users\pruebas2.ATURING\Desktop\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\pruebas2.ATURING\Desktop\Prueba\Prueba\obj\Debug\Prueba.GIROS.resources
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\bin\Debug\Prueba.exe.config
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\bin\Debug\Prueba.exe
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\bin\Debug\Prueba.pdb
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\bin\Debug\Prueba.xml
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\obj\Debug\Prueba.vbproj.AssemblyReference.cache
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\obj\Debug\Prueba.GIROS.resources
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\obj\Debug\Prueba.Resources.resources
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\obj\Debug\Prueba.vbproj.GenerateResource.cache
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\obj\Debug\Prueba.vbproj.CoreCompileInputs.cache
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\obj\Debug\Prueba.exe
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\obj\Debug\Prueba.xml
+D:\Usuario\Documents\Visual basic\Prueba\Prueba\obj\Debug\Prueba.pdb
+D:\Usuario\Desktop\prueba\Prueba\obj\Debug\Prueba.vbproj.AssemblyReference.cache
+D:\Usuario\Desktop\prueba\Prueba\obj\Debug\Prueba.Form1.resources
+D:\Usuario\Desktop\prueba\Prueba\obj\Debug\Prueba.Resources.resources
+D:\Usuario\Desktop\prueba\Prueba\obj\Debug\Prueba.vbproj.GenerateResource.cache
+D:\Usuario\Desktop\prueba\Prueba\obj\Debug\Prueba.vbproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\prueba\Prueba\obj\Debug\Prueba.exe
+D:\Usuario\Desktop\prueba\Prueba\obj\Debug\Prueba.xml
+D:\Usuario\Desktop\prueba\Prueba\obj\Debug\Prueba.pdb
+D:\Usuario\Desktop\prueba\Prueba\bin\Debug\Prueba.exe.config
+D:\Usuario\Desktop\prueba\Prueba\bin\Debug\Prueba.exe
+D:\Usuario\Desktop\prueba\Prueba\bin\Debug\Prueba.pdb
+D:\Usuario\Desktop\prueba\Prueba\bin\Debug\Prueba.xml
+D:\Usuario\Desktop\prueba\Prueba\bin\Debug\Newtonsoft.Json.dll
+D:\Usuario\Desktop\prueba\Prueba\bin\Debug\RestSharp.dll
+D:\Usuario\Desktop\prueba\Prueba\bin\Debug\Newtonsoft.Json.xml
+D:\Usuario\Desktop\prueba\Prueba\bin\Debug\RestSharp.xml
+D:\Usuario\Desktop\prueba\Prueba\obj\Debug\Prueba.vbproj.CopyComplete
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\bin\Debug\Prueba.exe.config
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\bin\Debug\Prueba.exe
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\bin\Debug\Prueba.pdb
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\bin\Debug\Prueba.xml
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\bin\Debug\Newtonsoft.Json.xml
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\bin\Debug\RestSharp.xml
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\obj\Debug\Prueba.vbproj.AssemblyReference.cache
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\obj\Debug\Prueba.Form1.resources
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\obj\Debug\Prueba.Resources.resources
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\obj\Debug\Prueba.vbproj.GenerateResource.cache
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\obj\Debug\Prueba.vbproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\obj\Debug\Prueba.vbproj.CopyComplete
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\obj\Debug\Prueba.exe
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\obj\Debug\Prueba.xml
+D:\Usuario\Desktop\Tienda_Comiclandia\Prueba\obj\Debug\Prueba.pdb
